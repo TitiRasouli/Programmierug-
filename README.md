@@ -1,1 +1,6 @@
-# API Project 2444
+# API Project 
+
+## Git Setup
+
+git config --global user .name
+git config --global user .email
